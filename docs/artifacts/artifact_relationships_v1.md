@@ -1,7 +1,7 @@
 # CKF Artifact Relationships
 
-**Framework:** Career Knowledge Framework (CKF)
-**Version:** 1.0
+**Framework:** Career Knowledge Framework (CKF)  
+**Version:** 1.0  
 **Status:** Draft – Architectural Specification
 
 ---
@@ -32,20 +32,20 @@ Artifacts should never duplicate the responsibilities of other artifacts.
 
 ```text
 Individual
-      │
-      ▼
+      |
+      v
 Master Experience Ledger (MEL)
-      │
-      ▼
-Capability Profile & Intelligence Ledger (CPIL)
-      │
-      ▼
+      |
+      v
+Capability Pattern & Insight Ledger (CPIL)
+      |
+      v
 Career Capability Assessment (CCA)
-      │
-      ▼
+      |
+      v
 Resume Generation Framework (RGF)
-      │
-      ▼
+      |
+      v
 Career Artifacts
 ```
 
@@ -81,11 +81,11 @@ May NOT:
 
 ---
 
-## Capability Profile & Intelligence Ledger (CPIL)
+## Capability Pattern & Insight Ledger (CPIL)
 
 Purpose:
 
-Transform experiences into structured capability records.
+Transform experiences into structured capability patterns and insights.
 
 Consumes:
 
@@ -93,9 +93,9 @@ Consumes:
 
 Produces:
 
-* Capability inventory
+* Capability patterns
+* Capability insights
 * Capability relationships
-* Capability classifications
 
 May NOT:
 
@@ -134,7 +134,7 @@ May NOT:
 
 Purpose:
 
-Transform authoritative career knowledge into presentation-specific artifacts.
+Transform authoritative career knowledge into presentation-specific career artifacts.
 
 Consumes:
 
@@ -163,13 +163,17 @@ Authority flows in one direction.
 
 ```text
 MEL
- ↓
+ |
+ v
 CPIL
- ↓
+ |
+ v
 CCA
- ↓
+ |
+ v
 RGF
- ↓
+ |
+ v
 Career Artifacts
 ```
 

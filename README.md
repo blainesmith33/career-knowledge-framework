@@ -40,22 +40,22 @@ Instead of maintaining multiple versions of the same information, it maintains o
 
 # Framework Architecture
 
-```
+```text
 Experience
-        │
-        ▼
+        |
+        v
 Master Experience Ledger (MEL)
-        │
-        ▼
-Capability Profile & Intelligence Ledger (CPIL)
-        │
-        ▼
+        |
+        v
+Capability Pattern & Insight Ledger (CPIL)
+        |
+        v
 Career Capability Assessment (CCA)
-        │
-        ▼
+        |
+        v
 Resume Generation Framework (RGF)
-        │
-        ▼
+        |
+        v
 Targeted Career Artifacts
 ```
 
@@ -77,9 +77,9 @@ The MEL answers:
 
 ---
 
-## Capability Profile & Intelligence Ledger (CPIL)
+## Capability Pattern & Insight Ledger (CPIL)
 
-Transforms experiences into structured capability records.
+Transforms experiences into structured capability patterns and insights.
 
 The CPIL answers:
 
@@ -99,7 +99,7 @@ The CCA answers:
 
 ## Resume Generation Framework (RGF)
 
-Generates position-specific resumes using governed rules and evidence from upstream artifacts.
+Transforms governed upstream knowledge into presentation-specific career artifacts.
 
 The RGF answers:
 

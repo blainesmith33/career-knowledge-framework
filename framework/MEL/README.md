@@ -7,7 +7,7 @@
 
 ---
 
-# Purpose
+## Purpose
 
 The Master Experience Ledger (MEL) is the authoritative record of an individual's experiences that contribute to their professional capabilities.
 
@@ -19,7 +19,7 @@ The MEL is intended to answer one fundamental question:
 
 ---
 
-# Authority
+## Authority
 
 The MEL is the authoritative source for all experience-related information within the Career Knowledge Framework.
 
@@ -29,9 +29,15 @@ No downstream artifact may modify, reinterpret, or replace information contained
 
 Changes to professional experience originate in the MEL and propagate through derivative artifacts.
 
+Authority flows through the Career Knowledge Framework in the following order:
+
+```text
+MEL -> CPIL -> CCA -> RGF
+```
+
 ---
 
-# Scope
+## Scope
 
 The MEL may include, but is not limited to:
 
@@ -52,7 +58,7 @@ The MEL may include, but is not limited to:
 
 ---
 
-# Non-Goals
+## Non-Goals
 
 The MEL does not:
 
@@ -67,39 +73,39 @@ Those responsibilities belong to downstream artifacts.
 
 ---
 
-# Core Principles
+## Core Principles
 
 The MEL is governed by the following principles:
 
-## Authoritative
+### Experience Authoritative
 
 The MEL is the canonical source of experience information.
 
-## Owner Maintained
+### Owner Maintained
 
 The individual is the primary authority regarding their own experiences.
 
 Experiences do not require external documentation to be recorded.
 
-## Evidence Supported
+### Evidence Supported
 
 Supporting materials may be attached to experiences whenever available.
 
 Evidence strengthens transparency and traceability but is not required for inclusion.
 
-## Version Controlled
+### Revision Controlled
 
 The MEL evolves through documented revisions.
 
 Historical changes should remain traceable.
 
-## Long-Term
+### Long-Term
 
 The MEL is intended to represent an individual's lifetime of experience rather than a single job search.
 
 ---
 
-# Internal Structure
+## Internal Structure
 
 Each MEL entry should describe an experience.
 
@@ -121,7 +127,7 @@ Individual implementations may extend these fields provided they preserve the au
 
 ---
 
-# Supporting Evidence
+## Supporting Evidence
 
 Supporting evidence is optional.
 
@@ -145,7 +151,7 @@ Supporting evidence increases confidence and transparency but does not determine
 
 ---
 
-# Inputs
+## Inputs
 
 The MEL accepts information from:
 
@@ -157,11 +163,11 @@ The MEL accepts information from:
 
 ---
 
-# Outputs
+## Outputs
 
 The MEL provides authoritative experience information to:
 
-- Capability Profile & Intelligence Ledger (CPIL)
+- Capability Pattern & Insight Ledger (CPIL)
 - Career Capability Assessment (CCA)
 - Resume Generation Framework (RGF)
 - Position-specific resumes
@@ -172,25 +178,75 @@ The MEL provides authoritative experience information to:
 
 ---
 
-# Relationship to Other Artifacts
+## Relationship to Other Artifacts
 
 The MEL serves as the foundation of the Career Knowledge Framework.
 
 ```text
 Individual
-      │
-      ▼
+      |
+      v
 Master Experience Ledger (MEL)
-      │
-      ▼
-Capability Profile & Intelligence Ledger (CPIL)
-      │
-      ▼
+      |
+      v
+Capability Pattern & Insight Ledger (CPIL)
+      |
+      v
 Career Capability Assessment (CCA)
-      │
-      ▼
+      |
+      v
 Resume Generation Framework (RGF)
-      │
-      ▼
+      |
+      v
 Career Artifacts
 ```
+
+The MEL records experience.
+
+The CPIL records capability patterns and insights derived from experience.
+
+The CCA interprets and assesses capability patterns and insights in career, role, domain, and developmental contexts.
+
+The RGF transforms authoritative upstream information into presentation-specific career artifacts.
+
+---
+
+## Prohibited Behavior
+
+The MEL must not:
+
+- Evaluate capability strength.
+- Rank proficiency.
+- Recommend careers.
+- Optimize resumes.
+- Predict hiring outcomes.
+- Treat downstream interpretation as primary experience evidence.
+- Allow downstream artifacts to rewrite or replace MEL experience records.
+
+---
+
+## Revision Behavior
+
+The MEL should be revised when experience information is added, corrected, clarified, split, merged, or retired.
+
+Revision should preserve traceability between recorded experiences, supporting evidence, and downstream artifacts that depend on those records.
+
+When a MEL change affects downstream artifacts, the MEL remains the source of experience authority and downstream artifacts should be updated to reflect the revised experience record.
+
+---
+
+## Long-Term Role
+
+The MEL is intended to remain the durable experience foundation of the Career Knowledge Framework.
+
+Over time, it should make an individual's experience history easier to preserve, review, substantiate, and reuse without requiring each downstream artifact to maintain its own version of the same history.
+
+---
+
+## Summary
+
+The Master Experience Ledger is the authoritative CKF artifact for experience records.
+
+It provides the factual foundation from which capability patterns, assessments, presentation artifacts, and future CKF artifacts are derived.
+
+The MEL must preserve experience authority, support traceability, and remain distinct from downstream interpretation and presentation.

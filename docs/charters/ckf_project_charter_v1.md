@@ -75,7 +75,7 @@ Experience
 Master Experience Ledger (MEL)
         │
         ▼
-Capability Profile & Intelligence Ledger (CPIL)
+Capability Pattern & Insight Ledger (CPIL)
         │
         ▼
 Career Capability Assessment (CCA)
