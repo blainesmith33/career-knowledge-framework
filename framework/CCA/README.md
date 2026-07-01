@@ -9,23 +9,23 @@
 
 ## Purpose
 
-The Career Capability Assessment (CCA) is the authoritative interpretation and assessment layer for capability patterns and insights within the Career Knowledge Framework.
+The Career Capability Assessment (CCA) is the authoritative interpretation and assessment layer for Capability Knowledge within the Career Knowledge Framework.
 
-The CCA evaluates capabilities recorded in the Capability Pattern & Insight Ledger (CPIL), with relevant Master Experience Ledger (MEL) context where appropriate, to identify patterns, strengths, limits, transferability, specialization, progression, and career alignment.
+The CCA evaluates Capability Knowledge recorded in the Capability Pattern & Insight Ledger (CPIL), with relevant Master Experience Ledger (MEL) context where appropriate, to explain meaning, strengths, limits, transferability, specialization, progression, and career alignment.
 
 The CCA is intended to answer one fundamental question:
 
-> **What do this individual's authoritative capability records indicate about their professional direction, fit, strengths, and development patterns?**
+> **What does this individual's authoritative Capability Knowledge indicate about their professional direction, fit, strengths, and development patterns?**
 
 ---
 
 ## Authority
 
-The CCA is authoritative for interpretation and assessment of capability patterns and insights.
+The CCA is authoritative for interpretation and assessment of Capability Knowledge.
 
 The CCA is not authoritative for experience records. Experience authority remains exclusively with the MEL.
 
-The CCA is not authoritative for capability patterns, insights, or supporting capability records themselves. Capability pattern and insight authority remains with the CPIL.
+The CCA is not authoritative for Capability Knowledge itself. Capability Knowledge authority remains with the CPIL.
 
 The CCA consumes CPIL records and relevant MEL context without modifying either artifact.
 
@@ -37,7 +37,7 @@ Authority flows through the Career Knowledge Framework in the following order:
 MEL -> CPIL -> CCA -> RGF
 ```
 
-Changes to experience information originate in the MEL. Changes to capability patterns and insights originate in the CPIL. Changes to assessment interpretation originate in the CCA only when they remain grounded in authoritative upstream artifacts.
+Changes to experience information originate in the MEL. Changes to Capability Knowledge originate in the CPIL. Changes to assessment interpretation originate in the CCA only when they remain grounded in authoritative upstream artifacts.
 
 ---
 
@@ -71,7 +71,7 @@ The CCA does not:
 
 - Record primary experience history.
 - Replace or override the MEL.
-- Create or modify capability records.
+- Create or modify Capability Knowledge.
 - Replace or override the CPIL.
 - Invent capabilities or experience.
 - Generate resumes.
@@ -91,7 +91,7 @@ The CCA is governed by the following principles:
 
 ### Downstream of CPIL
 
-The CCA depends on the CPIL for capability authority.
+The CCA depends on the CPIL for Capability Knowledge authority.
 
 No CCA interpretation may establish a capability that is absent from, or unsupported by, the CPIL.
 
@@ -103,15 +103,15 @@ MEL context informs interpretation but remains governed by the MEL.
 
 ### Interpretation Authoritative
 
-The CCA is the canonical CKF source for governed interpretation and assessment of capability patterns and insights.
+The CCA is the canonical CKF source for governed interpretation and assessment of Capability Knowledge.
 
-Downstream artifacts should use the CCA when they need assessed meaning, positioning, alignment, or interpretive guidance rather than raw capability records alone.
+Downstream artifacts should use the CCA when they need assessed meaning, positioning, alignment, or interpretive guidance rather than raw Capability Knowledge alone.
 
 ### Traceable
 
 Each assessment should identify the CPIL records and, where relevant, MEL entries that support it.
 
-Traceability allows downstream artifacts to distinguish assessment interpretation from source experience and capability records.
+Traceability allows downstream artifacts to distinguish assessment interpretation from source experience and Capability Knowledge.
 
 ### Conservative
 
@@ -139,7 +139,7 @@ The CCA is intended to support long-term career understanding rather than only a
 
 ## Assessment Dimensions
 
-The CCA may assess capability records across dimensions such as:
+The CCA may assess Capability Knowledge across dimensions such as:
 
 - Strength
 - Depth
@@ -162,7 +162,7 @@ The CCA may assess capability records across dimensions such as:
 
 Assessment dimensions are interpretive lenses.
 
-They do not create experience authority, create capability authority, or permit conclusions unsupported by upstream artifacts.
+They do not create experience authority, create Capability Knowledge authority, or permit conclusions unsupported by upstream artifacts.
 
 ---
 
@@ -193,7 +193,7 @@ Individual implementations may extend these fields provided they preserve upstre
 
 ## Pattern Identification
 
-Pattern identification is the process of recognizing meaningful relationships across CPIL capability records and relevant MEL context.
+Pattern identification is the process of recognizing meaningful assessment relationships across CPIL Capability Knowledge and relevant MEL context.
 
 The CCA may identify patterns such as:
 
@@ -243,7 +243,7 @@ The CCA may describe confidence and limits associated with an assessment.
 Confidence should reflect:
 
 - Strength of CPIL support
-- Specificity of related capability records
+- Specificity of related Capability Knowledge
 - Quality and relevance of MEL context
 - Recency and duration of supporting experience
 - Repetition across multiple records
@@ -263,7 +263,7 @@ Limitations do not invalidate an assessment by themselves, but they should shape
 
 The CCA accepts information from:
 
-- Capability Pattern & Insight Ledger records
+- Capability Pattern & Insight Ledger Capability Knowledge
 - CPIL revision history
 - MEL entries referenced by CPIL records
 - MEL context relevant to timing, scope, outcomes, and experience setting
@@ -329,9 +329,9 @@ Career Artifacts
 
 The MEL records experience.
 
-The CPIL records capability patterns and insights derived from experience.
+The CPIL records Capability Knowledge derived from experience.
 
-The CCA interprets and assesses capability patterns and insights in career, role, domain, and developmental contexts.
+The CCA interprets and assesses Capability Knowledge in career, role, domain, and developmental contexts.
 
 The RGF transforms authoritative experience, capability pattern, insight, and governed assessment information into presentation-specific career artifacts.
 
@@ -346,7 +346,7 @@ The CCA must not:
 - Modify MEL entries.
 - Modify CPIL records.
 - Treat assessment interpretation as experience authority.
-- Treat assessment interpretation as capability authority.
+- Treat assessment interpretation as Capability Knowledge authority.
 - Represent inferred transferability as direct experience.
 - Overstate seniority, mastery, scope, or certainty.
 - Convert weak or narrow upstream support into broad assessment claims.
@@ -379,7 +379,7 @@ When an upstream change invalidates an assessment, the CCA should revise, retire
 
 The CCA is intended to become the durable interpretation layer of the Career Knowledge Framework.
 
-Over time, it should make an individual's professional direction, strengths, development patterns, and capability transferability easier to understand without repeatedly reassessing raw experience and capability records.
+Over time, it should make an individual's professional direction, strengths, development patterns, and capability transferability easier to understand without repeatedly reassessing raw experience and Capability Knowledge.
 
 The CCA supports long-term career knowledge management by separating source records from governed interpretation while preserving traceability to authoritative upstream artifacts.
 
@@ -387,7 +387,7 @@ The CCA supports long-term career knowledge management by separating source reco
 
 ## Summary
 
-The Career Capability Assessment is the authoritative CKF artifact for interpretation and assessment of capability patterns and insights.
+The Career Capability Assessment is the authoritative CKF artifact for interpretation and assessment of Capability Knowledge.
 
 It remains downstream of the Capability Pattern & Insight Ledger and may use relevant Master Experience Ledger context without modifying either artifact.
 

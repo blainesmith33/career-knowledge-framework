@@ -9,9 +9,11 @@
 
 ## Purpose
 
-The Capability Pattern & Insight Ledger (CPIL) is the authoritative record of an individual's professional capability patterns and insights within the Career Knowledge Framework.
+The Capability Pattern & Insight Ledger (CPIL) is the authoritative record of an individual's Capability Knowledge within the Career Knowledge Framework.
 
-The CPIL translates experience information from the Master Experience Ledger (MEL) into structured capability patterns and insights that can be assessed, reasoned about, and reused by downstream artifacts.
+Capability Knowledge consists of capability patterns, capability insights, and capability records.
+
+The CPIL translates experience information from the Master Experience Ledger (MEL) into structured Capability Knowledge that can be interpreted, assessed, reasoned about, and reused by downstream artifacts.
 
 The CPIL is intended to answer one fundamental question:
 
@@ -21,7 +23,7 @@ The CPIL is intended to answer one fundamental question:
 
 ## Authority
 
-The CPIL is authoritative for capability patterns, insights, and supporting capability records only.
+The CPIL is authoritative for Capability Knowledge only.
 
 The CPIL is not authoritative for experience records. Experience authority remains exclusively with the MEL.
 
@@ -35,7 +37,7 @@ Authority flows through the Career Knowledge Framework in the following order:
 MEL -> CPIL -> CCA -> RGF
 ```
 
-Changes to experience information originate in the MEL. Changes to capability patterns and insights originate in the CPIL only when they remain traceable to authoritative MEL entries.
+Changes to experience information originate in the MEL. Changes to Capability Knowledge originate in the CPIL only when they remain traceable to authoritative MEL entries.
 
 ---
 
@@ -58,7 +60,7 @@ The CPIL may include capabilities derived from:
 - Creative work
 - Other meaningful experience recorded in the MEL
 
-The CPIL may represent capabilities across technical, operational, strategic, interpersonal, analytical, creative, leadership, domain, and execution-oriented dimensions.
+The CPIL may describe capabilities across technical, operational, strategic, interpersonal, analytical, creative, leadership, domain, and execution-oriented dimensions.
 
 The CPIL describes capabilities as reusable professional attributes, not as standalone claims detached from experience.
 
@@ -92,17 +94,17 @@ The CPIL depends on the MEL for experience authority.
 
 No CPIL capability may exist without a traceable relationship to one or more MEL entries.
 
-### Capability Pattern and Insight Authoritative
+### Capability Knowledge Authoritative
 
-The CPIL is the canonical CKF source for structured capability patterns, insights, and supporting capability records.
+The CPIL is the canonical CKF source for Capability Knowledge.
 
-Downstream artifacts should use the CPIL when they need capability pattern or insight information rather than re-deriving capabilities directly from experience records.
+Downstream artifacts should use the CPIL when they need capability patterns, capability insights, or capability records rather than re-deriving capabilities directly from experience records.
 
 ### Traceable
 
 Each capability must identify the MEL entry or entries from which it is derived.
 
-Traceability allows downstream artifacts to distinguish capability patterns and insights from primary experience history.
+Traceability allows downstream artifacts to distinguish Capability Knowledge from primary experience history.
 
 ### Reasonably Derived
 
@@ -114,7 +116,7 @@ External evidence is not required when the capability is sufficiently supported 
 
 Supporting evidence may strengthen the transparency, specificity, and confidence of a capability record.
 
-Evidence does not create experience authority and does not replace the MEL as the source of truth.
+Evidence does not create experience authority and does not replace the MEL as the source of experience authority.
 
 ### Revision Controlled
 
@@ -140,14 +142,14 @@ A capability may contain:
 - Derived-from MEL entry references
 - Related responsibilities, activities, or outcomes
 - Contexts in which the capability was demonstrated
-- Strength or maturity characterization
-- Transferability notes
+- Descriptive context or maturity indicators
+- Potential transferability context
 - Supporting evidence references, when available
 - Confidence notes
 - Limitations or boundaries
 - Revision history
 
-Individual implementations may extend these fields provided they preserve MEL traceability and the CPIL's authority over capability patterns, insights, and supporting capability records only.
+Individual implementations may extend these fields provided they preserve MEL traceability and the CPIL's authority over Capability Knowledge only.
 
 ---
 
@@ -170,13 +172,13 @@ The CPIL may organize capabilities into categories such as:
 
 Categories are organizational aids.
 
-They do not create capability authority by themselves and must not obscure the MEL entries from which each capability is derived.
+They do not create Capability Knowledge authority by themselves and must not obscure the MEL entries from which each capability is derived.
 
 ---
 
 ## Capability Derivation
 
-Capability derivation is the process of interpreting MEL entries into reusable capability records.
+Capability derivation is the process of deriving, organizing, relating, preserving, and describing MEL-supported Capability Knowledge.
 
 A CPIL capability may be derived from:
 
@@ -241,13 +243,13 @@ The CPIL accepts information from:
 - Supporting evidence referenced by MEL entries
 - Capability clarification provided by the individual when tied back to MEL entries
 
-The CPIL must not accept untraceable capability claims as authoritative capability records.
+The CPIL must not accept untraceable capability claims as authoritative Capability Knowledge.
 
 ---
 
 ## Outputs
 
-The CPIL provides authoritative capability pattern and insight information to:
+The CPIL provides authoritative Capability Knowledge to:
 
 - Career Capability Assessment (CCA)
 - Resume Generation Framework (RGF)
@@ -257,7 +259,7 @@ The CPIL provides authoritative capability pattern and insight information to:
 - Career analyses
 - Future CKF artifacts
 
-Outputs from the CPIL should preserve traceability to MEL-derived capability records wherever practical.
+Outputs from the CPIL should preserve traceability to MEL-derived Capability Knowledge wherever practical.
 
 ---
 
@@ -286,9 +288,9 @@ Career Artifacts
 
 The MEL records experience.
 
-The CPIL records capability patterns and insights derived from experience.
+The CPIL records Capability Knowledge derived from experience.
 
-The CCA evaluates capabilities against career, role, or market contexts.
+The CCA interprets and assesses Capability Knowledge against career, role, or market contexts.
 
 The RGF transforms authoritative experience, capability pattern, insight, and assessment information into presentation-specific career artifacts.
 
@@ -304,6 +306,7 @@ The CPIL must not:
 - Modify MEL experience records.
 - Represent experience records as if they originated in the CPIL.
 - Convert weak or narrow experience support into broad capability claims.
+- Assess capability meaning, strength, transferability, career fit, or professional direction.
 - Present speculative, aspirational, or desired capabilities as established capabilities.
 - Override downstream assessment decisions made by the CCA.
 - Generate final resume language as if it were the RGF.
@@ -315,11 +318,11 @@ The CPIL must not:
 The CPIL should be revised when:
 
 - MEL entries are added, removed, clarified, split, merged, or corrected.
-- Capability interpretations become more precise.
+- Capability Knowledge becomes more precise.
 - Supporting evidence becomes available.
 - Confidence or limitation notes need refinement.
 - Capability categories are reorganized.
-- Downstream artifacts reveal ambiguity that should be resolved at the capability-record level.
+- Downstream artifacts reveal ambiguity that should be resolved at the Capability Knowledge level.
 
 Revision should preserve the relationship between each capability and the MEL entry or entries that support it.
 
@@ -333,13 +336,13 @@ The CPIL is intended to become the durable capability layer of the Career Knowle
 
 Over time, it should make an individual's capabilities easier to understand, compare, assess, and reuse without repeatedly reinterpreting raw experience history.
 
-The CPIL supports long-term career knowledge management by separating experience authority from capability pattern and insight authority while preserving traceability between them.
+The CPIL supports long-term career knowledge management by separating experience authority from Capability Knowledge authority while preserving traceability between them.
 
 ---
 
 ## Summary
 
-The Capability Pattern & Insight Ledger is the authoritative CKF artifact for capability patterns, insights, and supporting capability records.
+The Capability Pattern & Insight Ledger is the authoritative CKF artifact for Capability Knowledge.
 
 It remains downstream of the Master Experience Ledger and depends on the MEL for all experience authority.
 
@@ -347,4 +350,4 @@ Every CPIL capability must trace back to one or more MEL entries.
 
 Supporting evidence improves transparency and confidence, but evidence does not create experience authority and is not required when a capability is reasonably derived from an authoritative MEL entry.
 
-The CPIL provides the structured capability pattern and insight foundation used by downstream assessment, resume generation, and future career artifacts.
+The CPIL provides the structured Capability Knowledge foundation used by downstream assessment, resume generation, and future career artifacts.

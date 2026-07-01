@@ -18,7 +18,7 @@ The Career Knowledge Framework (CKF) addresses this problem by establishing a si
 
 # Purpose
 
-The Career Knowledge Framework is an evidence-based methodology for transforming human experience into structured, governed career knowledge.
+The Career Knowledge Framework is a governed methodology for transforming human experience into structured, authoritative career knowledge.
 
 Rather than treating resumes and professional profiles as primary artifacts, CKF treats them as derivative representations generated from an authoritative foundation.
 
@@ -28,7 +28,7 @@ The framework is designed to:
 * Improve consistency across career artifacts.
 * Reduce duplication of effort.
 * Support long-term maintenance of professional knowledge.
-* Enable transparent, evidence-based career representation.
+* Enable transparent, evidence-supported career representation.
 
 ---
 
@@ -58,7 +58,7 @@ The Career Knowledge Framework does **not** attempt to:
 * Replace personal judgment in career decisions.
 * Predict hiring outcomes.
 * Recommend career paths.
-* Invent accomplishments, responsibilities, or capabilities not supported by available evidence.
+* Invent accomplishments, responsibilities, or capabilities not supported by governed upstream authority.
 * Replace resumes or portfolios as externally consumed documents.
 * Define software implementation, automation, schemas, or AI tooling during the initial framework phase.
 
@@ -68,22 +68,22 @@ The Career Knowledge Framework does **not** attempt to:
 
 CKF organizes professional knowledge through a governed chain of artifacts.
 
-```
+```text
 Experience
-        │
-        ▼
+        |
+        v
 Master Experience Ledger (MEL)
-        │
-        ▼
+        |
+        v
 Capability Pattern & Insight Ledger (CPIL)
-        │
-        ▼
+        |
+        v
 Career Capability Assessment (CCA)
-        │
-        ▼
+        |
+        v
 Resume Generation Framework (RGF)
-        │
-        ▼
+        |
+        v
 Targeted Career Artifacts
 ```
 
@@ -97,7 +97,7 @@ No downstream artifact supersedes or replaces its upstream authority.
 
 The framework is governed by several foundational principles:
 
-* Maintain a single authoritative source for professional experience.
+* Preserve distributed authority across governed artifacts.
 * Prefer evidence over recollection whenever evidence is available.
 * Preserve traceability between artifacts.
 * Separate facts, interpretation, and presentation.

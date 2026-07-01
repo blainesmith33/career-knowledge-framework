@@ -1,16 +1,16 @@
 # Career Knowledge Framework (CKF)
 
-> An evidence-based framework for transforming human experience into structured, authoritative career knowledge.
+> A governed framework for transforming human experience into structured, authoritative career knowledge.
 
 ## Overview
 
-The Career Knowledge Framework (CKF) is an open methodology for organizing professional experience into reusable, traceable, and evidence-based artifacts.
+The Career Knowledge Framework (CKF) is an open methodology for organizing professional experience into reusable, traceable, governed artifacts.
 
-Rather than treating resumes, cover letters, LinkedIn profiles, and career assessments as independent documents, CKF establishes a single authoritative source of truth from which all downstream career artifacts can be generated.
+Rather than treating resumes, cover letters, LinkedIn profiles, and career assessments as independent documents, CKF establishes distributed authority across governed artifacts from which downstream career artifacts can be generated.
 
 The framework emphasizes:
 
-- Evidence-based documentation
+- Evidence-supported documentation
 - Traceability
 - Capability mapping
 - Governance
@@ -61,7 +61,7 @@ Targeted Career Artifacts
 
 Every artifact has a specific purpose.
 
-Each artifact is derived from upstream evidence rather than maintained independently.
+Each artifact is derived from governed upstream authority rather than maintained independently.
 
 ---
 
@@ -79,7 +79,7 @@ The MEL answers:
 
 ## Capability Pattern & Insight Ledger (CPIL)
 
-Transforms experiences into structured capability patterns and insights.
+Transforms experiences into Capability Knowledge: capability patterns, capability insights, and capability records.
 
 The CPIL answers:
 
@@ -89,7 +89,7 @@ The CPIL answers:
 
 ## Career Capability Assessment (CCA)
 
-Evaluates capability patterns, transferable skills, strengths, and career alignment.
+Interprets and assesses Capability Knowledge for transferability, strengths, limits, and career alignment.
 
 The CCA answers:
 
@@ -109,7 +109,7 @@ The RGF answers:
 
 # Guiding Principles
 
-- Single authoritative source of truth
+- Distributed authority across governed artifacts
 - Evidence over memory whenever possible
 - Version-controlled artifacts
 - Traceable capability development

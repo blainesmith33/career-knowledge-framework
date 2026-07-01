@@ -85,7 +85,7 @@ May NOT:
 
 Purpose:
 
-Transform experiences into structured capability patterns and insights.
+Derive, organize, relate, preserve, and describe Capability Knowledge from MEL experience records.
 
 Consumes:
 
@@ -95,11 +95,13 @@ Produces:
 
 * Capability patterns
 * Capability insights
+* Capability records
 * Capability relationships
 
 May NOT:
 
 * Modify MEL
+* Assess capability meaning, strength, or transferability
 * Evaluate career suitability
 * Generate resumes
 
@@ -109,7 +111,7 @@ May NOT:
 
 Purpose:
 
-Analyze capabilities and identify meaningful patterns.
+Interpret, assess, evaluate, and explain the meaning of Capability Knowledge.
 
 Consumes:
 
@@ -126,6 +128,7 @@ May NOT:
 
 * Modify MEL
 * Modify CPIL
+* Derive new Capability Knowledge
 * Generate resumes
 
 ---
@@ -163,15 +166,19 @@ Authority flows in one direction.
 
 ```text
 MEL
+Experience Authority
  |
  v
 CPIL
+Capability Knowledge Authority
  |
  v
 CCA
+Interpretation & Assessment Authority
  |
  v
 RGF
+Presentation Transformation Authority
  |
  v
 Career Artifacts
